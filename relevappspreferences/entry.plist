@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = relevappspreferences;
+	cell = PSLinkCell;
+	detail = relevappspreferencesListController;
+	icon = Icon-small.png;
+	isController = 1;
+	label = "RelevApps";
+    };
+}
