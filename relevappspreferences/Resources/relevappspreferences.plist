@@ -99,6 +99,20 @@
 		</dict>
 
 
+<dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>footerText</key>
+      <string>
+
+
+This tweak was created as part of Tweak Battles 2015
+
+Thanks to: @twodayslate, @BrianOverly, OVOAustin, KaseTheAce, Josh Gibson, Adam M, Matteo Piccina, @redzrex, cj81499, twahlHD, JayFreemanBlows, Jon Ware, Kennedy, Bruno Silva, Magicka, Mahmood Ma, Andrew Redden, Julio Salazar, Conn, Chairboy, Rozersedge, myself, Fauxshow, uroboro, brcleverdon, Jason McPherson, Shadow Games, dasfalk, pixxaddict, wizage, Connor Pearson, Megachon, ThaTiemsz, Dr.J, phlooo.
+
+If I missed someone send me an email :)</string>
+  </dict>
+
 		
 	</array>
 	<key>title</key>
